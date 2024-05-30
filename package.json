@@ -4,10 +4,10 @@
   "description": "",
   "main": "develop/server/server.js",
   "scripts": {
-    "start": "node develop/server/server.js",
+    "start": "webpack serve --mode development",
     "server": "nodemon develop/server/server.js --ignore client",
     "client": "cd Develop/client && npm start",
-    "build": "cd Develop/client && npm run build",
+    "build": "cd client && npm run build",
     "start:dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
