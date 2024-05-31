@@ -34,7 +34,7 @@ https://text-editor-4-4647ee111e91.herokuapp.com/
 
 ## Screenshots
 
-![screenshot](IMG_8641.jpg) 
+![screenshot](IMG_86412.jpg) 
 
 
 ## Technologies Used
